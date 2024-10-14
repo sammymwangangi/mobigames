@@ -83,7 +83,7 @@ export function GameDetails() {
               </div>
             ) : (
               <div className="flex items-center justify-center">
-                <div>Don't Lose your progress</div>
+                <div>Don&#39;t Lose your progress</div>
                 <div>
                   <button
                     type="button"
@@ -160,7 +160,7 @@ export function GameDetails() {
                           Your progress will be saved on your MobiGames account
                         </DialogTitle>
                         <Description className="text-xs">
-                          You're currently logged in to your MobiGames account,
+                          You&#39;re currently logged in to your MobiGames account,
                           which means that your progress will be saved on that
                           account as you play. Logging in to MobiGames before
                           playing ensures the convenience of continuing your
@@ -181,7 +181,7 @@ export function GameDetails() {
               </div>
             ) : (
               <div className="flex items-center justify-center">
-                <div>Don't Lose your progress</div>
+                <div>Don&#39;t Lose your progress</div>
                 <div>
                   <button
                     type="button"
