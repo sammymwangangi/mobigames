@@ -62,7 +62,7 @@ export function GameDetails() {
                           Your progress will be saved on your MobiGames account
                         </DialogTitle>
                         <Description className="text-xs">
-                          You're currently logged in to your MobiGames account,
+                          You&apos;re currently logged in to your MobiGames account,
                           which means that your progress will be saved on that
                           account as you play. Logging in to MobiGames before
                           playing ensures the convenience of continuing your
